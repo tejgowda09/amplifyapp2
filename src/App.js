@@ -8,9 +8,7 @@ function App() {
     <div className="App">
       <header>
         <img src={logo} className="App-logo" alt="logo" />
-        <h1> we now have authticator </h1>
-       
-          
+        <h1> we now have auth </h1>
       
       </header>
       <AmplifySignOut />
